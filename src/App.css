@@ -77,7 +77,6 @@ h1 {
   .main-container {
     flex-direction: column;
   }
-
   .sidebar, .product-list {
     width: 100%;
   }
